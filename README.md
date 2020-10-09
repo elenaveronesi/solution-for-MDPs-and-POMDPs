@@ -1,4 +1,4 @@
 # Analysis and comparison of environments and solvers for probabilistic sequential decision making
-These notebooks analyze some of the main algorithms for sequential decision problems Markov Decision Process (MDP) and for partially observable MDP problems, Partially Observable Markov Decision Proces (POMDP).
+These notebooks analyze some of the main algorithms for sequential decision problems Markov Decision Process (MDP) and for partially observable MDP problems, Partially Observable Markov Decision Process (POMDP).
 In particular, with regard to completely observable problems, the Value Iteration, Policy Iteration and Q-learning algorithms are analyzed while for the part of partially observable problems, QMDP, Fast Informed Bound (FIB) and Incremental Pruning are analyzed.
 The environments in which the algorithms are analyzed range from environments built in Python starting from a case study, existing environments provided by the OpenAI Gym toolkit or environments developed in JuliaPOMDP language.
